@@ -1,0 +1,9 @@
+Username	Timestamp	Status
+alice	2026-03-18 17:30:05	success
+bob	2026-03-18 18:15:22	failure
+charlie	2026-03-18 16:50:10	success
+Username	Timestamp	Status
+alice	2026-03-18-17:30:05	success
+bob	2026-03-18-18:15:22	failure
+charlie	2026-03-18-16:50:10	success
+bob	2026-03-18-17:45:50	failure
